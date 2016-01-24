@@ -190,7 +190,8 @@
         <instance_geometry url="#Body-mesh" name="Body">
           <bind_material>
             <technique_common>
-              <instance_material symbol="__001-material" target="#__001-material"/>
+              <instance_material symbol="__0012-material" target="#__0012-material"/>
+              <instance_material symbol="__002-material" target="#__002-material"/>
             </technique_common>
           </bind_material>
         </instance_geometry>
